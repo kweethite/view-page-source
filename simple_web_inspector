@@ -1,7 +1,7 @@
 import requests
 
 x = True
-print("#input url value 'exit' is for exit :3")
+print("Enter 'exit'  to  exit the program:3")
 while x:
    url = input("Enter your target web page url : ")
 
